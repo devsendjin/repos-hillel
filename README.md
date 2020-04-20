@@ -10,7 +10,7 @@ localhost:8082
 ````
 ##### Work with mysql:
 1. create database "blog"
-2. create table "users" 
+2. create a table "users" 
 
 
 ##### Work with mongo db:
